@@ -1,0 +1,32 @@
+* {margin: 0; padding: 0}
+div {
+  display: block;
+}
+.header{
+	background: url(images/main.jpg) no-repeat;
+	height: 1212px;
+	 -moz-background-size: 100%;
+    -webkit-background-size: 100%; 
+    -o-background-size: 100%; 
+    background-size: 100%; 
+}
+.wrap {
+  margin-top: 0;
+  height: 510px;
+  background: url('images/sbl.jpg') repeat-y left, 
+  url('images/sbp.jpg') repeat-y right, 
+  url('images/wrap.jpg') repeat;
+}
+.footer {
+  height: 510px;
+  background: url('images/f_l.png')no-repeat bottom left, 
+  url('images/f_p.png') no-repeat bottom right, 
+  url('images/sbl.jpg') repeat-y left, 
+  url('images/sbp.jpg') repeat-y right, 
+  
+
+  url('images/lover-high.png') no-repeat bottom right;
+}
+.little-menu-1{
+
+}
